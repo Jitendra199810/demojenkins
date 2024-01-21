@@ -1,6 +1,17 @@
-# IntelliJ Idea
-/.idea
-/*.iml
+# Compiled class file
+*.class
 
-# Maven
-/target
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+# Generated Sources
+target
+
+# IDE Files
+.idea
